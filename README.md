@@ -5,10 +5,9 @@ This is a salary prediction project using the Stack Overflow 2018 Developer Surv
 
 ## Team Members :
 
-- Surya M N - PES1UG19CS525
-- Avanish V Patil - PES1UG19CS096
-- Kedar U Shet - PES1UG19CS217
-- Tushar Y S - PES1UG19CS545
+- [Kedar U Shet](https://github.com/kedarshet/)
+- [Surya M N](https://github.com/SuryaMN)
+- [Avanish V Patil](https://github.com/avanish23)
 
 ## The following models were implemented :
 
